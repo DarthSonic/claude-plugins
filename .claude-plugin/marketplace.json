@@ -1,0 +1,13 @@
+{
+  "name": "darthsonic",
+  "description": "Claude Code plugins and mods by Sven Moderow; each lives in a repository of its own.",
+  "owner": { "name": "Sven Moderow" },
+  "plugins": [
+    {
+      "name": "cache-weather-and-pause-resume",
+      "source": { "source": "github", "repo": "DarthSonic/cache-weather-and-pause-resume" },
+      "description": "A band above the prompt: prompt-cache countdown, hit rate, context weather with the auto-compact threshold, a Compact button and a Pause / Resume button. German and English.",
+      "category": "mod"
+    }
+  ]
+}
