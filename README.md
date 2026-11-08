@@ -1,6 +1,7 @@
 # darthsonic — Claude Code plugins
 
 [![CI](https://github.com/DarthSonic/claude-plugins/actions/workflows/ci.yml/badge.svg)](https://github.com/DarthSonic/claude-plugins/actions/workflows/ci.yml)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/DarthSonic)
 
 The [Claude Code](https://code.claude.com) marketplace `darthsonic`: a catalog of plugins and mods by Sven Moderow.
 This repository holds only the catalog, [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json); each
@@ -28,12 +29,18 @@ Then install a plugin by its name and `@darthsonic`, or browse them in `/plugin`
 | --- | --- | --- |
 | [cache-weather-and-pause-resume](https://github.com/DarthSonic/cache-weather-and-pause-resume) | A band above the prompt: prompt-cache countdown and bar with the hit rate, keep-warm (on by default) that refreshes the cache before it runs out, context weather with the auto-compact threshold, a Compact button, a Pause / Resume button that has Claude finish running work, save its state and wait, and a Shutdown button that pauses and then shuts the computer down. German and English. | `claude plugin install cache-weather-and-pause-resume@darthsonic` |
 
+## Support
+
+The plugins are free and open source. If they save you time, you can support their development through
+[GitHub Sponsors](https://github.com/sponsors/DarthSonic).
+
 ## Deutsch
 
 Der Marketplace `darthsonic` für [Claude Code](https://code.claude.com): ein Katalog von Plugins und Mods von Sven
 Moderow. Dieses Repository enthält nur den Katalog; jedes Plugin hat ein eigenes Repository mit README (auch auf
 Deutsch), Changelog und Tests. Hinzufügen mit `/plugin marketplace add DarthSonic/claude-plugins`, dann ein Plugin mit
-seinem Namen und `@darthsonic` installieren.
+seinem Namen und `@darthsonic` installieren. Die Plugins sind kostenlos und Open Source; sparen sie dir Zeit, kannst du
+ihre Weiterentwicklung über [GitHub Sponsors](https://github.com/sponsors/DarthSonic) unterstützen.
 
 ## License
 
