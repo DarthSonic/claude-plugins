@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "cache-weather-and-pause-resume: bugs and ideas"
+    url: https://github.com/DarthSonic/cache-weather-and-pause-resume/issues/new/choose
+    about: The band above the prompt has its own repository and issue forms.

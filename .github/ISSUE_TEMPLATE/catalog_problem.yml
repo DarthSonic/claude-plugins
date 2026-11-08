@@ -1,0 +1,29 @@
+name: Catalog problem
+description: Adding the marketplace or installing a plugin from it fails, or an entry is wrong
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A bug or an idea for a plugin belongs to that plugin's repository (linked in the README). English or German, as you like. / Gern auch auf Deutsch.
+  - type: input
+    id: claude-code-version
+    attributes:
+      label: Claude Code version
+      description: The output of `claude --version`.
+      placeholder: "2.1.319"
+    validations:
+      required: true
+  - type: input
+    id: plugin
+    attributes:
+      label: Plugin
+      description: The plugin the problem is about, if any.
+      placeholder: "cache-weather-and-pause-resume"
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened, and what did you expect?
+      description: The command you ran and its output.
+    validations:
+      required: true
