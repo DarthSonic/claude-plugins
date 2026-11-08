@@ -1,11 +1,15 @@
 # darthsonic — Claude Code plugins
 
 [![CI](https://github.com/DarthSonic/claude-plugins/actions/workflows/ci.yml/badge.svg)](https://github.com/DarthSonic/claude-plugins/actions/workflows/ci.yml)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors)](https://github.com/sponsors/DarthSonic)
 
 The [Claude Code](https://code.claude.com) marketplace `darthsonic`: a catalog of plugins and mods by Sven Moderow.
 This repository holds only the catalog, [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json); each
 plugin lives in a repository of its own, with its README, changelog and tests.
+
+> [!TIP]
+> **Free and open source.** If the plugins save you time, you can support their development:
+>
+> [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on%20GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/DarthSonic)
 
 ## Add the marketplace
 
