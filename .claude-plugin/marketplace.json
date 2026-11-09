@@ -6,7 +6,7 @@
     {
       "name": "cache-weather-and-pause-resume",
       "source": { "source": "github", "repo": "DarthSonic/cache-weather-and-pause-resume" },
-      "description": "A band above the prompt: prompt-cache countdown and bar with the hit rate, keep-warm (on by default), context weather with the auto-compact threshold, and Compact, Pause / Resume and Shutdown buttons. German and English.",
+      "description": "A band above the prompt: prompt-cache countdown and bar with the hit rate, keep-warm (on by default), context weather with the auto-compact threshold and a forecast, usage limits, and buttons for Compact, Sessions (all sessions at a glance), Pause / Resume and Shutdown, Standby or Hibernate. German and English.",
       "category": "mod"
     }
   ]
