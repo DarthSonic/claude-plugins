@@ -31,7 +31,7 @@ Then install a plugin by its name and `@darthsonic`, or browse them in `/plugin`
 
 | Plugin | What it does | Install |
 | --- | --- | --- |
-| [cache-weather-and-pause-resume](https://github.com/DarthSonic/cache-weather-and-pause-resume) | A band above the prompt: prompt-cache countdown and bar with the hit rate, keep-warm (on by default) that refreshes the cache before it runs out, context weather with the auto-compact threshold and a forecast, usage limits, a Compact button, a Sessions overview of every session on the computer, a Pause / Resume button that has Claude finish running work, save its state and wait, and a Shutdown button that pauses and then shuts the computer down, sends it to standby or hibernates it. German and English. | `claude plugin install cache-weather-and-pause-resume@darthsonic` |
+| [cache-weather-and-pause-resume](https://github.com/DarthSonic/cache-weather-and-pause-resume) | Pause Claude Code and shut down, sleep or hibernate the computer once running work is done, across all sessions. Plus a band above the prompt with the prompt-cache countdown, hit rate and bar, keep-warm (on by default) that refreshes the cache before it runs out and says what that saves, context weather with the auto-compact threshold and a forecast, usage limits, a Compact button and an overview of all sessions. German and English. | `claude plugin install cache-weather-and-pause-resume@darthsonic` |
 
 ## Support
 
