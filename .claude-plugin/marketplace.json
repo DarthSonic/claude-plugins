@@ -6,7 +6,7 @@
     {
       "name": "cache-weather-and-pause-resume",
       "source": { "source": "github", "repo": "DarthSonic/cache-weather-and-pause-resume" },
-      "description": "Pause Claude Code, then shut down, sleep or hibernate the computer once work is done; a band with the prompt-cache countdown, keep-warm, context weather, usage limits, Compact and a sessions overview. German and English.",
+      "description": "Pause Claude Code, then shut down, sleep or hibernate the computer once work is done or at a set time; a band with the prompt-cache countdown, keep-warm, context weather, usage limits, Compact and a sessions overview. German and English.",
       "category": "mod"
     }
   ]
